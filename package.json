@@ -1,5 +1,5 @@
 {
-  "name": "Cyber-X MD",
+  "name": "𝕋𝕙𝕒𝕞𝕚𝕟𝕕𝕦🌹𝔻𝕀𝕊ℕ𝔸",
   "version": "1.0.0",
   "description": "Autometic WhatsApp Bot",
   "main": "bot.js",
@@ -17,7 +17,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "darkalphaxteam",
+  "author": "𝕋𝕙𝕒𝕞𝕚𝕟𝕕𝕦🌹𝔻𝕀𝕊ℕ𝔸",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "github:darkalphaxteam/baileys",
@@ -75,10 +75,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/darkalphaxteam/Cyber-X-Beta-Release.git"
+    "url": "https://www.youtube.com/channel/UCV9YD7Jt3M-wak61MPqWogw"
   },
   "bugs": {
-    "url": "https://github.com/darkalphaxteam/Cyber-X-Beta-Release/issues"
+    "url": "https://www.youtube.com/channel/UCV9YD7Jt3M-wak61MPqWogw"
   },
-  "homepage": "https://github.com/darkalphaxteam/Cyber-X-Beta-Release#readme"
+  "homepage": "https://www.youtube.com/channel/UCV9YD7Jt3M-wak61MPqWogw"
 }
