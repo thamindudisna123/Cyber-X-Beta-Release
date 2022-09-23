@@ -1,8 +1,7 @@
 {
-  "name": "Cyber-X WA BOT",
-  "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/darkalphaxteam/Cyber-X-Beta-Release",
-  "logo": "https://telegra.ph/file/71c859102f3625d06204b.jpg",
+  "name": "𝕋𝕙𝕒𝕞𝕚𝕟𝕕𝕦🌹𝔻𝕀𝕊ℕ𝔸",
+  "description": "𝔾𝕖𝕟𝕒𝕣𝕖𝕥𝕖𝕕 𝔹𝕐:- 𝕋𝕙𝕒𝕞𝕚𝕟𝕕𝕦🌹𝔻𝕀𝕊ℕ𝔸",
+   "logo": "https://drive.google.com/file/d/1UMF22lr0UoVqZkFNyZZ1NbpIEIFpo7h3/view",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
